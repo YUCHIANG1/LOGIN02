@@ -1,4 +1,4 @@
-namespace WebApplication1.Models
+namespace yuchi.Models
 {
     public class ErrorViewModel
     {

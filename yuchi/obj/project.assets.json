@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\login\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Alumno\\Desktop\\login\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\login\\yuchi\\yuchi.csproj",
+      "projectName": "yuchi",
+      "projectPath": "C:\\Users\\Alumno\\Desktop\\login\\yuchi\\yuchi.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\Desktop\\login\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Alumno\\Desktop\\login\\yuchi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
